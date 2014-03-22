@@ -1,0 +1,7 @@
+C:\Documents and Settings\Ezequiel\Configuración local\Datos de programa\Temporary Projects\LasGolondrinas\bin\Release\LasGolondrinas.exe
+C:\Documents and Settings\Ezequiel\Configuración local\Datos de programa\Temporary Projects\LasGolondrinas\bin\Release\LasGolondrinas.pdb
+C:\Documents and Settings\Ezequiel\Configuración local\Datos de programa\Temporary Projects\LasGolondrinas\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ezequiel\Configuración local\Datos de programa\Temporary Projects\LasGolondrinas\obj\Release\LasGolondrinas.exe
+C:\Documents and Settings\Ezequiel\Configuración local\Datos de programa\Temporary Projects\LasGolondrinas\obj\Release\LasGolondrinas.pdb
+G:\CSharp\LasGolondrinas\LasGolondrinas\obj\Release\LasGolondrinas.exe
+G:\CSharp\LasGolondrinas\LasGolondrinas\obj\Release\LasGolondrinas.pdb

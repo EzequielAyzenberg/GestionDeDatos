@@ -1,0 +1,7 @@
+C:\Documents and Settings\Ezequiel\Configuración local\Datos de programa\Temporary Projects\Tanques\bin\Release\Tanques.exe
+C:\Documents and Settings\Ezequiel\Configuración local\Datos de programa\Temporary Projects\Tanques\bin\Release\Tanques.pdb
+C:\Documents and Settings\Ezequiel\Configuración local\Datos de programa\Temporary Projects\Tanques\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ezequiel\Configuración local\Datos de programa\Temporary Projects\Tanques\obj\Release\Tanques.exe
+C:\Documents and Settings\Ezequiel\Configuración local\Datos de programa\Temporary Projects\Tanques\obj\Release\Tanques.pdb
+G:\CSharp\Tanques\Tanques\obj\Release\Tanques.exe
+G:\CSharp\Tanques\Tanques\obj\Release\Tanques.pdb

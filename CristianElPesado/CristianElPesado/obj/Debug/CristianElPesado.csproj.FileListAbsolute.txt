@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\CristianElPesado\bin\Debug\CristianElPesado.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\CristianElPesado\bin\Debug\CristianElPesado.pdb
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\CristianElPesado\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\CristianElPesado\obj\Debug\CristianElPesado.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\CristianElPesado\obj\Debug\CristianElPesado.pdb
